@@ -1,0 +1,113 @@
+.maindiv{
+
+   
+}
+#logo{
+
+    
+}
+nav{ 
+
+    display: flex;
+    height: 60px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+    background-color: rgba(18, 202, 235, 0.753);
+    color: white;
+    border-radius: 8px 8px 0px 0px;
+}
+.listitem{
+
+    display: flex;
+    list-style: none;
+    gap: 65px;
+    font-size: 20px
+
+}
+.navbutton{
+    column-gap10p : ;
+}
+button{
+
+    border-radius: 6px;
+    height: 45px;
+    width: 120px;
+    border: none;
+    font-weight: bold;
+}
+button:hover{
+
+    color: rgb(255, 255, 255);
+    background-color: rgba(54, 165, 230, 0.89);
+}
+
+   /* hero section */
+
+
+   .herodiv{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 25px;
+
+   }
+     .herodiv .containdiv{
+        display: grid;
+        align-content: space-evenly;
+        padding-top: 50px;
+        
+        
+     }
+
+
+   .herodiv .containdiv h1{
+    font-size: 50px;
+    padding: 0px;
+    margin-bottom: -40px;
+
+
+   }
+
+    .herodiv .containdiv p{
+        font-size: 20px;
+        color: grey;
+    }
+    b{
+        color:  rgba(54, 165, 230, 0.89)    ;
+
+    }
+    .herodiv .containdiv button{
+        border: none;
+        background-color:  rgba(54, 165, 230, 0.89);
+        color: white;
+
+    }
+
+    .seccontainer{
+        display: grid;
+        gap: 20px;
+        justify-items: center;
+        height: 180px;
+        box-shadow: 0 0 10px #777777;
+        padding-bottom: 50px;
+    }
+
+    .logocontainer{
+        display: flex;
+        gap: 100px;
+    }
+
+    .thirdcontainerr{
+        margin-top: 50px
+    }
+
+    .services{
+
+        
+        display: ;
+        border: 1px solid ;
+        justify-items: center;
+    }
+
+
+
