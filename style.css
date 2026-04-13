@@ -62,6 +62,8 @@ button:hover{
 
    .herodiv .containdiv h1{
     font-size: 50px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
     padding: 0px;
     margin-bottom: -40px;
 
@@ -70,11 +72,13 @@ button:hover{
 
     .herodiv .containdiv p{
         font-size: 20px;
+         font-family: "Poppins", sans-serif;
         color: grey;
     }
-    b{
-        color:  rgba(54, 165, 230, 0.89)    ;
-
+    .hero-headstyle{
+        font-weight: 700;
+        color: blue;
+        font-family: "Montserrat", sans-serif;
     }
     .herodiv .containdiv button{
         border: none;
